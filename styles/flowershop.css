@@ -73,3 +73,26 @@ body {
     padding: 10px 250px 10px 250px;
     margin-bottom: 48px;
 }
+
+.featured-flower-container{
+    display: flex;
+    justify-content: space-around;
+    max-width: 1200px;
+    text-align: center;
+    padding-left: 70px;
+}
+
+.featured-flower-sub-container1{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+}
+
+.featured-flower-sub-container2{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+}
+
+.featured-flower-sub-container3{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+}
