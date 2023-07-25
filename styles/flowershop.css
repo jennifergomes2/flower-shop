@@ -74,25 +74,65 @@ body {
     margin-bottom: 48px;
 }
 
-.featured-flower-container{
+.featured-flower-container {
     display: flex;
     justify-content: space-around;
     max-width: 1200px;
     text-align: center;
+    text-decoration: underline;
     padding-left: 70px;
 }
 
-.featured-flower-sub-container1{
+.featured-flower-sub-container1 {
     border-radius: 300px 300px 0px 0px;
-background: rgba(167, 33, 98, 0.15);
+    background: rgba(167, 33, 98, 0.15);
+    /* padding: 0px; */
+    /* padding-right: 3px; */
+    width: 400px;
+    height: 480px;
+    padding: 20px;
+    margin-right: 25px;
+
+
+
 }
 
-.featured-flower-sub-container2{
+.featured-flower-sub-container2 {
     border-radius: 300px 300px 0px 0px;
-background: rgba(5, 151, 160, 0.15);
+    background: rgba(5, 151, 160, 0.15);
+    /* padding-right: 3px; */
+    width: 350px;
+    height: 480px;
+    padding: 20px;
+    margin-right: 25px;
+
+
 }
 
-.featured-flower-sub-container3{
+.featured-flower-sub-container3 {
     border-radius: 300px 300px 0px 0px;
-background: rgba(71, 125, 17, 0.15);
+    background: rgba(71, 125, 17, 0.15);
+    width:  400px;
+    height: 520px;
+}
+
+
+
+.info-picture1 {
+    width: 200px;
+    height: 320px;
+    padding: 110px 78px 0px 78px;
+
+}
+
+.featured-flower-sub-container1 img{
+    padding: 180px 78px 0px 76px;
+}
+
+.featured-flower-sub-container2 img {
+    padding: 90px 150px 47px 5px;
+}
+
+.featured-flower-sub-container3 img{
+    padding: 50px 40px 0px 40px;
 }
