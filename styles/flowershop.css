@@ -109,7 +109,7 @@ body {
 .featured-flower-sub-container3 {
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
-    width:  400px;
+    width: 400px;
     height: 440px;
 }
 
@@ -121,17 +121,17 @@ body {
 
 }
 
-.info-picture2{
+.info-picture2 {
     width: 350px;
     height: 355px;
 }
 
-.info-picture3{
+.info-picture3 {
     width: 200px;
     height: 410px;
 }
 
-.featured-flower-sub-container1 img{
+.featured-flower-sub-container1 img {
     padding: 100px 78px 0px 76px;
 }
 
@@ -139,10 +139,51 @@ body {
     padding: 50px 150px 47px 5px;
 }
 
-.featured-flower-sub-container3 img{
+.featured-flower-sub-container3 img {
     padding: 30px 35px 0px 35px;
 }
 
-.info-description2{
+.info-description2 {
     margin-top: -15px;
+}
+
+/* service section styles */
+
+.service{
+    display: flex;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    max-width: 1200px;
+    height: 320px;
+    margin: 128px 50px 50px 75px;
+    background-size: 100%;
+    justify-content: space-around;
+
+}
+
+.service-img1 {
+    padding: 86px 50px 30px 120px;
+}
+
+.service-img2 {
+    padding: 86px 10px 30px 100px;
+}
+
+.service-img3 {
+    padding: 86px 105px 30px 100px;
+}
+
+.service-description {
+    /* margin-top: 24px;
+    padding: 30px 100px 87px 175px; */
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 15px;
+    font-weight: 100;
+    line-height: 10px;
+    /* margin-right: 80px; */
+    padding: 5px 10px 20px 10px;
+    margin-top: 10px;
+    margin-left: 15px;
+    
 }
