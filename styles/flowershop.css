@@ -86,10 +86,8 @@ body {
 .featured-flower-sub-container1 {
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
-    /* padding: 0px; */
-    /* padding-right: 3px; */
     width: 400px;
-    height: 480px;
+    height: 400px;
     padding: 20px;
     margin-right: 25px;
 
@@ -100,9 +98,8 @@ body {
 .featured-flower-sub-container2 {
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
-    /* padding-right: 3px; */
     width: 350px;
-    height: 480px;
+    height: 400px;
     padding: 20px;
     margin-right: 25px;
 
@@ -113,7 +110,7 @@ body {
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
     width:  400px;
-    height: 520px;
+    height: 440px;
 }
 
 
@@ -121,18 +118,31 @@ body {
 .info-picture1 {
     width: 200px;
     height: 320px;
-    padding: 110px 78px 0px 78px;
 
+}
+
+.info-picture2{
+    width: 350px;
+    height: 355px;
+}
+
+.info-picture3{
+    width: 200px;
+    height: 410px;
 }
 
 .featured-flower-sub-container1 img{
-    padding: 180px 78px 0px 76px;
+    padding: 100px 78px 0px 76px;
 }
 
 .featured-flower-sub-container2 img {
-    padding: 90px 150px 47px 5px;
+    padding: 50px 150px 47px 5px;
 }
 
 .featured-flower-sub-container3 img{
-    padding: 50px 40px 0px 40px;
+    padding: 30px 35px 0px 35px;
+}
+
+.info-description2{
+    margin-top: -15px;
 }
