@@ -203,9 +203,8 @@ body {
 .hot-deal-img {
     width: 280px;
     height: 350px;
-     /* padding: 10px 200px 10px 800px; */
-     padding-left: 800px;
-     margin-top: -280px;
+    padding-left: 800px;
+    margin-top: -280px;
 }
 
 .hot-deal-title {
@@ -232,4 +231,74 @@ body {
     color: #FFF;
     padding: 15px 30px;
     margin-left: 370px;
+}
+
+/* instagram section */
+
+.instagram-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 128px;
+    margin-bottom: 20px;
+
+}
+
+.instagram-description {
+
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    width: 730px;
+    padding: 10px 250px 10px 280px;
+    margin-bottom: 48px;
+
+}
+
+/* .instagram img{
+    display: flex;
+} */
+
+.instagram-container>img {
+    display: flex;
+    justify-content: space-around;
+    max-width: 1200px;
+
+    padding-left: 70px;
+}
+
+/* .instagram-img2{
+    display: flex;
+    justify-content: space-around;
+} */
+
+.instagram-img1 {
+    width: 250px;
+    height: 280px;
+    margin-left: 100px;
+    /* margin-right: 50px; */
+    /* padding: 10px 10px 180px 50px; */
+}
+
+.instagram-img2 {
+    width: 250px;
+    height: 280px;
+    padding: 10px 200px 200px 400px;
+    margin-top: -295px;
+}
+
+.instagram-img3 {
+    width: 250px;
+    height: 280px;
+    padding: 5px 180px 221px 700px;
+    margin-top: -595px;
+} 
+
+.instagram-img4 {
+    width: 250px;
+    height: 280px;
+    padding: 5px 180px 244px 1000px;
+    margin-top: -740px;
 }
