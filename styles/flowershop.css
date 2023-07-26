@@ -409,8 +409,8 @@ textarea {
 
 .footer-title1 span {
     color: #E55473;
-    font-size: 48px;
-    font-weight: 800;
+    font-size: 40px;
+    font-weight: 700;
 
 
 
@@ -418,8 +418,8 @@ textarea {
 
 .footer-title1 {
     color: #FFF;
-    font-size: 48px;
-    font-weight: 800;
+    font-size: 40px;
+    font-weight: 700;
 
 
 }
@@ -429,13 +429,6 @@ textarea {
 
 }
 
-
-
-
-.footer-title {
-    font-size: 35px;
-    font-weight: 600;
-}
 
 .footer-description {
     color: rgba(255, 255, 255, 0.90);
